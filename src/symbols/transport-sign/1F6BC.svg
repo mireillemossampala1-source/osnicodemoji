@@ -7,7 +7,7 @@
     <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
   </g>
   <g id="color">
-    <path fill="#61b2e4" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M60,61H12c-0.5523,0-1-0.4477-1-1V12c0-0.5523,0.4477-1,1-1h48c0.5523,0,1,0.4477,1,1v48C61,60.5523,60.5523,61,60,61z"/>
+    <path fill="#E3BDA0" stroke="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="M60,61H12c-0.5523,0-1-0.4477-1-1V12c0-0.5523,0.4477-1,1-1h48c0.5523,0,1,0.4477,1,1v48C61,60.5523,60.5523,61,60,61z"/>
     <path fill="#FFFFFF" stroke="none" d="M40.4155,37.6526c0,0-1.1088-0.2837-0.7159,0.8999l-3.6179-1.9927l1.0397-1.1799L40.4155,37.6526z"/>
     <path fill="#FFFFFF" stroke="none" d="M30.4567,37.6526c0,0,1.1088-0.2837,0.7159,0.8999l3.6179-1.9927l-1.0397-1.1799L30.4567,37.6526z"/>
     <path fill="none" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="3" d="M46.2,39.6c-5.3-4.6-10.7-4.2334-10.7-4.2334S29.9,35,24.6,39.6"/>
