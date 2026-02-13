@@ -19,7 +19,9 @@
   <g id="color-foreground">
     <g id="M_Button-2">
       <circle cx="36" cy="36" r="28" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="2"/>
-      <polyline fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="45.429 46.5 45.429 24.5 36 43.357 26.571 24.5 26.571 46.5"/>
+      <polyline fill="none" stroke="##000
+      
+      f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" points="45.429 46.5 45.429 24.5 36 43.357 26.571 24.5 26.571 46.5"/>
     </g>
   </g>
 </svg>
